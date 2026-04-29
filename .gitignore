@@ -4,6 +4,8 @@ __pycache__/
 .venv/
 env/
 venv/
+entorno_app/
+*.zip
 .DS_Store
 defaults.json
 Indice_*.xlsx
